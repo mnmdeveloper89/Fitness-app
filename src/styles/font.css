@@ -1,0 +1,8 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/ArchivoSemiBold.ttf"); font-family : "Archivo"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OswaldSemiBold.ttf"); font-family : "Oswald"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/ArchivoBold.ttf"); font-family : "Archivo"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OswaldMedium.ttf"); font-family : "Oswald"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/ArchivoRegular.ttf"); font-family : "Archivo"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OswaldRegular.ttf"); font-family : "Oswald"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/ArchivoMedium.ttf"); font-family : "Archivo"; font-weight : 500;  }
